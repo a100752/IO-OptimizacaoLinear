@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*.docx
+~$*.xlsx
+
+# Solver outputs
+*.sol
+*.out
+*.log
